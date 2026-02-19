@@ -4,7 +4,7 @@
 ### Network Security Engineer · 3.6 Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kruthik-k-v-3115ba21a)
-[![Gmail](https://img.shields.io/badge/Gmail-kruthik.39t%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kruthik.39t@gmail.com).
+[![Reach Me](https://img.shields.io/badge/Reach%20Me-kruthik.39t%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kruthik.39t@gmail.com)
 
 </div>
 
