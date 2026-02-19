@@ -1,34 +1,82 @@
-# Hi, I'm Kruthik K V 👋 
+<div align="center">
 
-### 🛡️ Networking & Security Specialist | 3.6+ Years Experience
-I am a detail-oriented Technical Support Engineer with a strong foundation in **Linux** and **Enterprise Networking Systems**. My expertise lies in high-pressure troubleshooting, performing deep **Root Cause Analysis (RCA)**, and managing critical accounts for global clients.
+# Kruthik K V
+### Network Security Engineer · 3.6 Years Experience
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL)
 
-### 🚀 Technical Expertise
-- **Application Delivery:** Citrix NetScaler ADC (VPX, SDX, MPX), Load Balancing, Content Switching, Rewrite/Responder Policies, and ADM.
-- **Security & Gateway:** Web Application Firewall (WAF), Cisco ASA/WSA/ESA, SSL VPN, and Endpoint Analysis (EPA).
-- **Networking Core:** DNS, DHCP, TCP/IP, HTTP/SSL, OSI Model, Routing, and Switching.
-- **Analysis Tools:** Advanced Wireshark Trace Analysis, Linux Log Analysis.
+</div>
 
 ---
 
-### 📈 Professional Highlights
-- **HCL Tech (Networking/LB):** Serving as the **Single Point of Contact (SPOC)** for top-tier "Red Accounts," ensuring high customer satisfaction and timely resolution.
-- **Citrix (CSG):** Promoted to the **Priority Support Team** to handle high-SLA cases and deliver preventive measures through detailed RCAs.
-- **Environment:** Supporting diverse geographic regions (GEOs) and resolving complex hardware/software issues.
+## 👨‍💻 About Me
+
+Network & Security Engineer with **3.6 years** of hands-on experience in enterprise environments. I specialize in **Citrix NetScaler ADC**, **Cisco ASA**, **Web Application Firewalls**, and deep-packet analysis with Wireshark.
+
+I've worked as the **Single Point of Contact (SPOC)** for Red Accounts at HCL Tech and was promoted to a **Priority Support Team** at Citrix to handle high-SLA, high-stakes cases. I don't just fix problems — I root-cause them.
+
+Currently building my automation skills to bridge **networking + scripting** for modern NetSecOps roles.
 
 ---
 
-### 🎓 Certifications & Training
-- **Certifications:** CCNA, CCNP, ASA, and VPN.
-- **Advanced Training:** CCIE Networking Course from Networkers Home, Bangalore.
-- **Education:** B.E. in Electrical and Electronics Engineering from BNM Institute of Technology.
+## 🛠️ Tech Stack
 
-- ---
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/kruthik-k-v-3115ba21a](https://www.linkedin.com/in/kruthik-k-v-3115ba21a)
-- **Email:** kruthik.39t@gmail.com
+| Domain | Tools & Technologies |
+|---|---|
+| **Load Balancing / ADC** | Citrix NetScaler (VPX, SDX, MPX), ADM, Content Switching, Rewrite/Responder |
+| **Security** | Cisco ASA, WAF, SSL VPN, EPA, Cisco WSA/ESA |
+| **Networking** | TCP/IP, DNS, DHCP, HTTP/S, OSI Model, Routing & Switching |
+| **Analysis** | Wireshark, Linux Log Analysis, RCA |
+| **OS** | Linux (CLI proficient) |
 
 ---
-> *"The more thoroughly I research a case, the more effectively I can resolve it."*
+
+## 📂 Projects
+
+### 🔹 [Citrix-NetScaler-Expertise](https://github.com/Kruthik-NetworkSecurity/Citrix-NetScaler-Expertise)
+Real-world NetScaler configurations, troubleshooting playbooks, and RCA templates from enterprise support scenarios. Covers Load Balancing, Content Switching, WAF policies, and SSL issues.
+
+### 🔹 NetSec-Automation *(Coming Soon)*
+Python & Bash scripts to automate common network security tasks — log parsing, firewall rule auditing, and SSL certificate checks.
+
+### 🔹 Wireshark-Playbook *(Coming Soon)*
+A practical field guide to Wireshark filters for network engineers. Real packet capture scenarios with annotated analysis.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer |
+|---|---|
+| CCNA (Cisco Certified Network Associate) | Networkers Home |
+| CCNP (Cisco Certified Network Professional) | Networkers Home |
+| CCIE Training | Networkers Home, Bangalore |
+
+---
+
+## 💼 Experience Highlights
+
+**HCL Tech** — Network & Load Balancing Support Engineer
+- Designated SPOC for top-tier "Red Accounts" across global GEOs
+- Led RCAs for critical outages and delivered preventive action plans
+
+**Citrix** — Priority Support Engineer (CSG)
+- Promoted to handle high-SLA escalations for enterprise clients
+- Resolved complex NetScaler ADC, WAF, and SSL VPN issues under tight SLAs
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kruthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kruthik-NetworkSecurity&show_icons=true&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<i>"The more thoroughly I research a case, the more effectively I can resolve it."</i>
+</div>
