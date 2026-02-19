@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kruthik! 👋
 
-<!--
-**Kruthik-NetworkSecurity/Kruthik-NetworkSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🛡️ **Technical Support Engineer** focusing on Security.
+- 🌐 **3.6+ Years** of experience in Networking and TAC.
+- ⚡ **Goal:** To provide high-level security support and incident management.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Networking:** Routing, Switching, TCP/IP, VPNs.
+- **Security:** Firewall Management, Phishing Analysis, SOP Documentation.
+- **Tools:** Wireshark, Cisco Packet Tracer, Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus
+- Developing automated workflows for L1 Security tickets.
+- Documenting deep-dives into network protocols.
+
+---
+"The more thoroughly I research a case, the more effectively I can resolve it."
