@@ -25,5 +25,10 @@ I am a detail-oriented Technical Support Engineer with a strong foundation in **
 - **Advanced Training:** CCIE Networking Course from Networkers Home, Bangalore.
 - **Education:** B.E. in Electrical and Electronics Engineering from BNM Institute of Technology.
 
+- ---
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/kruthik-k-v-3115ba21a](https://www.linkedin.com/in/kruthik-k-v-3115ba21a)
+- **Email:** kruthik.39t@gmail.com
+
 ---
 > *"The more thoroughly I research a case, the more effectively I can resolve it."*
