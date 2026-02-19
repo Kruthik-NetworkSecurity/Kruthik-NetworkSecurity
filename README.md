@@ -37,11 +37,11 @@ Currently building my automation skills to bridge **networking + scripting** for
 ### 🔹 [Citrix-NetScaler-Expertise](https://github.com/Kruthik-NetworkSecurity/Citrix-NetScaler-Expertise)
 Real-world NetScaler configurations, troubleshooting playbooks, and RCA templates from enterprise support scenarios. Covers Load Balancing, Content Switching, WAF policies, and SSL issues.
 
-### 🔹 NetSec-Automation *(Coming Soon)*
-Python & Bash scripts to automate common network security tasks — log parsing, firewall rule auditing, and SSL certificate checks.
+### 🔹 [Wireshark-Playbook](https://github.com/Kruthik-NetworkSecurity/Wireshark-Playbook)
+A practical field guide to Wireshark filters for network security engineers. Real packet capture scenarios covering SSL/TLS, TCP, DNS, HTTP, WAF, and Citrix NetScaler — with annotated RCA examples.
 
-### 🔹 Wireshark-Playbook *(Coming Soon)*
-A practical field guide to Wireshark filters for network engineers. Real packet capture scenarios with annotated analysis.
+### 🔹 [NetScaler — Enterprise Field Guide](https://github.com/Kruthik-NetworkSecurity/NetScaler)
+Real-world Citrix NetScaler ADC configurations, troubleshooting methodologies, and RCA frameworks from 3.6+ years of TAC experience. Covers Load Balancing, Gateway, WAF, SSL/TLS, nFactor, SAML, GSLB, HA, and more.
 
 ---
 
@@ -67,5 +67,16 @@ A practical field guide to Wireshark filters for network engineers. Real packet 
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kruthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kruthik-NetworkSecurity&show_icons=true&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
 <i>"The more thoroughly I research a case, the more effectively I can resolve it."</i>
 </div>
