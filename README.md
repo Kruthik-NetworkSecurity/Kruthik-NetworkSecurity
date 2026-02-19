@@ -1,9 +1,10 @@
 <div align="center">
 
 # Kruthik K V
-### Network Security Engineer · 3.6 Years Experience
+### Network Security Engineer · 3.6+ Years Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthik-k-v-3115ba21a) [![Reach Me](https://img.shields.io/badge/Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kruthik.39t@gmail.com)
+<a href="https://www.linkedin.com/in/kruthik-k-v-3115ba21a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://mail.google.com/mail/?view=cm&to=kruthik.39t@gmail.com"><img src="https://img.shields.io/badge/Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 </div>
 
