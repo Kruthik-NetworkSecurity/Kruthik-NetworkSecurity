@@ -67,16 +67,5 @@ A practical field guide to Wireshark filters for network engineers. Real packet 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kruthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kruthik-NetworkSecurity&show_icons=true&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 <i>"The more thoroughly I research a case, the more effectively I can resolve it."</i>
 </div>
