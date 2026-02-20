@@ -41,7 +41,7 @@ Real-world NetScaler configurations, troubleshooting playbooks, and RCA template
 A practical field guide to Wireshark filters for network security engineers. Real packet capture scenarios covering SSL/TLS, TCP, DNS, HTTP, WAF, and Citrix NetScaler — with annotated RCA examples.
 
 ### 🔹 [NetScaler — Enterprise Field Guide](https://github.com/Kruthik-NetworkSecurity/NetScaler)
-Real-world Citrix NetScaler ADC configurations, troubleshooting methodologies, and RCA frameworks from 3.6+ years of TAC experience. Covers Load Balancing, Gateway, WAF, SSL/TLS, nFactor, SAML, GSLB, HA, and more.
+Real-world Citrix NetScaler ADC configurations, troubleshooting methodologies, and RCA frameworks from 3.6+ years of TAC experience. Covers Load Balancing,Content-Switching, Gateway, WAF, SSL/TLS, nFactor, SAML, GSLB, HA, and more.
 
 ---
 
