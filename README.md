@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Network & Security Engineer with **3.6 years** of hands-on experience in enterprise environments. I specialize in **Citrix NetScaler ADC**, **Cisco ASA**, **Web Application Firewalls**, and deep-packet analysis with Wireshark.
+Network & Security Engineer with **3.8 years** of hands-on experience in enterprise environments. I specialize in **Citrix NetScaler ADC**, **Cisco ASA**, **Web Application Firewalls**, and deep-packet analysis with Wireshark.
 
 I've worked as the **Single Point of Contact (SPOC)** for Red Accounts at HCL Tech and was promoted to a **Priority Support Team** at Citrix to handle high-SLA, high-stakes cases. I don't just fix problems — I root-cause them.
 
