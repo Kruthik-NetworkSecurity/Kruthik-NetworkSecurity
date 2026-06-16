@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kruthik K V
-### Network Security Engineer · 3.8+ Years Experience
+### Network Security Engineer · 3.11+ Years Experience
 
 <a href="https://www.linkedin.com/in/kruthik-k-v-3115ba21a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://mail.google.com/mail/?view=cm&to=kruthik.39t@gmail.com"><img src="https://img.shields.io/badge/Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Network & Security Engineer with **3.8 years** of hands-on experience in enterprise environments. I specialize in **Citrix NetScaler ADC**, **Cisco ASA**, **Web Application Firewalls**, and deep-packet analysis with Wireshark.
+Network & Security Engineer with **3.11 years** of hands-on experience in enterprise environments. I specialize in **Citrix NetScaler ADC**, **Cisco ASA**, **Web Application Firewalls**, and deep-packet analysis with Wireshark.
 
 I've worked as the **Single Point of Contact (SPOC)** for Red Accounts at HCL Tech and was promoted to a **Priority Support Team** at Citrix to handle high-SLA, high-stakes cases. I don't just fix problems — I root-cause them.
 
